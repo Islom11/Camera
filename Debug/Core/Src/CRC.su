@@ -1,0 +1,8 @@
+CRC.cpp:57:10:uint16_t CRC16_update(uint16_t, uint8_t)	16	static
+CRC.cpp:63:10:uint16_t CRC16_calc(uint8_t*, uint16_t)	24	static
+CRC.cpp:150:10:uint32_t CRC32_update(uint32_t, uint8_t)	16	static
+CRC.cpp:156:10:uint32_t CRC32_calc(const unsigned char*, uint32_t)	24	static
+CRC.cpp:205:10:uint16_t CRC16_Q921_update(uint16_t, uint8_t)	16	static
+CRC.cpp:211:10:uint16_t CRC16_Q921_calc(uint16_t, uint8_t*, uint16_t)	16	static
+CRC.cpp:219:10:uint16_t CRC16_Q921_add(uint8_t*, uint16_t)	24	static
+CRC.cpp:231:6:bool CRC16_Q921_check(uint8_t*, uint16_t)	24	static
